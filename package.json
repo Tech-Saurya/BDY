@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tech-Saurya/BDY-Some-One-Special"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Saurya Raj Suraj",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Tech-Saurya/BDY-Some-One-Special"
+  },
+  "homepage": "https://github.com/Tech-Saurya/BDY-Some-One-Special",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
